@@ -1,0 +1,14 @@
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.csproj.AssemblyReference.cache
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.AssemblyInfoInputs.cache
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.AssemblyInfo.cs
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.csproj.CoreCompileInputs.cache
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\bin\Debug\netcoreapp3.1\InventarisKantor.exe
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\bin\Debug\netcoreapp3.1\InventarisKantor.deps.json
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\bin\Debug\netcoreapp3.1\InventarisKantor.runtimeconfig.json
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\bin\Debug\netcoreapp3.1\InventarisKantor.runtimeconfig.dev.json
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\bin\Debug\netcoreapp3.1\InventarisKantor.dll
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\bin\Debug\netcoreapp3.1\InventarisKantor.pdb
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.dll
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.pdb
+C:\Users\Selvianisa\source\repos\InventarisKantor\InventarisKantor\obj\Debug\netcoreapp3.1\InventarisKantor.genruntimeconfig.cache
